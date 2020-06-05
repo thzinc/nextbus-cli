@@ -7,10 +7,10 @@ import (
 	"syscall"
 	"time"
 
+	api "github.com/dinedal/nextbus"
 	"github.com/gocarina/gocsv"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
-	api "github.com/thzinc/nextbus"
 )
 
 var (
